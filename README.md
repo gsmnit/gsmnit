@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gsmnit
-- 👀 I’m interested in web-development, automation, databases
-- 🌱 I’m currently learning django/python 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web-development, Android Development, Machine Learning
+- 🌱 I’m currently working as Software Engineer in Samsung Electronics
+- 💞️ I’m looking to collaborate on .......? Just ping me we can discuss anything you have in your mind?
 - 📫 How to reach me shoot an email at 31g.s.gehlot@gmail.com
 
 <!---
